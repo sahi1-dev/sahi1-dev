@@ -14,14 +14,14 @@
 
 ## 🚀 About Me
 
-[cite_start]I'm a passionate **Machine Learning & AI Engineer**[cite: 1, 2]. [cite_start]Currently pursuing my **Master of Computer Applications (AI/ML)** at **Galgotias University** [cite: 41][cite_start], I focus on building intelligent, scalable applications that bridge the gap between complex data and user-centric solutions[cite: 8].
+I'm a passionate **Machine Learning & AI Engineer**. Currently pursuing my **Master of Computer Applications (AI/ML)** at **Galgotias University**, I focus on building intelligent, scalable applications that bridge the gap between complex data and user-centric solutions.
 
-- 🔭 **Currently working on:** **[Kavach AI](https://github.com/sahil-dev)** – A real-time social safety ecosystem for emergency reporting and community protection.
-- [cite_start]🌱 **Learning:** Cloud DevOps, Docker, Vertex AI[cite: 31], and advanced Generative AI workflows.
-- [cite_start]👯 **Open to collaborate on:** Full-Stack & AI-powered Web Applications[cite: 8].
-- [cite_start]💬 **Ask me about:** Machine Learning [cite: 30][cite_start], NLP [cite: 16][cite_start], Predictive Modeling [cite: 2][cite_start], and AI API Integration[cite: 24, 27].
-- [cite_start]📧 **Reach me at:** **[mdsahilsheikh009@gmail.com](mailto:mdsahilsheikh009@gmail.com)** [cite: 2]
-- [cite_start]⚡ **Fun fact:** I built a Lung Cancer Prediction model with **95% accuracy**! [cite: 21]
+- 🔭 **Currently working on:** **Kavach AI** – A real-time social safety ecosystem for emergency reporting and community protection.
+- 🌱 **Learning:** Cloud DevOps, Docker, Vertex AI, and advanced Generative AI workflows.
+- 👯 **Open to collaborate on:** Full-Stack & AI-powered Web Applications.
+- 💬 **Ask me about:** Machine Learning, NLP, Predictive Modeling, and AI API Integration.
+- 📧 **Reach me at:** [mdsahilsheikh009@gmail.com](mailto:mdsahilsheikh009@gmail.com)
+- ⚡ **Fun fact:** I built a Lung Cancer Prediction model with **95% accuracy**!
 
 ---
 
@@ -53,13 +53,13 @@
 ## 🏆 Featured Projects
 
 ### 🏥 [Lungs Cancer Prediction Model](https://github.com/sahil-dev)
-[cite_start]Built a multi-task deep learning model achieving **95% accuracy** [cite: 21] [cite_start]using Python, NumPy, and Seaborn [cite: 22] for early detection and risk scoring.
+Built a multi-task deep learning model achieving **95% accuracy** using Python, NumPy, and Seaborn for early detection and risk scoring.
 
 ### 🤖 [AI Counsellor - Hackathon Project](https://github.com/sahi1-dev/Al-Counsellor)
-[cite_start]Developed an AI-powered counseling app using **Grok LLM API** [cite: 24][cite_start], featuring prompt engineering [cite: 31] and cloud deployment.
+Developed an AI-powered counseling app using **Grok LLM API**, featuring prompt engineering and cloud deployment.
 
 ### 🎓 [MyCareerGenie](https://github.com/sahil-dev)
-[cite_start]An AI-driven career guidance application that provides personalized recommendations based on academic background and skill mapping[cite: 27].
+An AI-driven career guidance application that provides personalized recommendations based on academic background and skill mapping.
 
 ---
 
