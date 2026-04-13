@@ -3,10 +3,10 @@
 # 👋 Hi, I'm MD Sahil
 ### Machine Learning Engineer | Full-Stack AI Developer | MCA @ Galgotias
 
-[![Profile Views](https://komarev.com/ghpvc/?username=sahil-dev&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/sahil-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-sahil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sahil-a7081a257/)
 [![GitHub followers](https://img.shields.io/github/followers/sahil-dev?logo=github&style=for-the-badge&color=0e75b6)](https://github.com/sahil-dev)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sahi1-dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sahil-neural-folio-qxrf-but0t8hea-sahil-sheikh-786s-projects.vercel.app/)
 
 </div>
 
@@ -63,30 +63,6 @@ An AI-driven career guidance application that provides personalized recommendati
 
 ---
 
-## 📊 GitHub Statistics & Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sahil-dev&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahil-dev&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-dev&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sahil-dev&theme=react-dark&hide_border=true&area=true)
-
-</div>
-
----
-
 ## 💬 Dev Philosophy
 
 <div align="center">
@@ -100,7 +76,7 @@ An AI-driven career guidance application that provides personalized recommendati
 <div align="center">
 
 ### ⭐ Connect with me and let's build something amazing!
-[LinkedIn](https://linkedin.com/in/md-sahil) | [GitHub](https://github.com/sahil-dev) | [LeetCode](https://leetcode.com/u/sahi1-dev/)
+[Portfolio](https://sahil-neural-folio-qxrf-but0t8hea-sahil-sheikh-786s-projects.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/md-sahil-a7081a257/) | [GitHub](https://github.com/sahil-dev) | [LeetCode](https://leetcode.com/u/sahi1-dev/)
 
 **Thanks for visiting! 🚀**
 </div>
