@@ -1,15 +1,106 @@
-<h1 align="center">Hi 👋, I'm Sahil</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **React**
+# 👋 Hi, I'm MD Sahil
+### Machine Learning Engineer | Full-Stack AI Developer | MCA @ Galgotias
 
-- 👨‍💻 All of my projects are available at [https://sahil-sheikh-portfolio.vercel.app/](https://sahil-sheikh-portfolio.vercel.app/)
+[![Profile Views](https://komarev.com/ghpvc/?username=sahil-dev&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/sahil-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-sahil)
+[![GitHub followers](https://img.shields.io/github/followers/sahil-dev?logo=github&style=for-the-badge&color=0e75b6)](https://github.com/sahil-dev)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sahi1-dev/)
 
-- 📫 How to reach me **mdsahilsheikh009@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+## 🚀 About Me
+
+[cite_start]I'm a passionate **Machine Learning & AI Engineer**[cite: 1, 2]. [cite_start]Currently pursuing my **Master of Computer Applications (AI/ML)** at **Galgotias University** [cite: 41][cite_start], I focus on building intelligent, scalable applications that bridge the gap between complex data and user-centric solutions[cite: 8].
+
+- 🔭 **Currently working on:** **[Kavach AI](https://github.com/sahil-dev)** – A real-time social safety ecosystem for emergency reporting and community protection.
+- [cite_start]🌱 **Learning:** Cloud DevOps, Docker, Vertex AI[cite: 31], and advanced Generative AI workflows.
+- [cite_start]👯 **Open to collaborate on:** Full-Stack & AI-powered Web Applications[cite: 8].
+- [cite_start]💬 **Ask me about:** Machine Learning [cite: 30][cite_start], NLP [cite: 16][cite_start], Predictive Modeling [cite: 2][cite_start], and AI API Integration[cite: 24, 27].
+- [cite_start]📧 **Reach me at:** **[mdsahilsheikh009@gmail.com](mailto:mdsahilsheikh009@gmail.com)** [cite: 2]
+- [cite_start]⚡ **Fun fact:** I built a Lung Cancer Prediction model with **95% accuracy**! [cite: 21]
+
+---
+
+## 🛠️ Tech Stack
+
+### 🧠 AI / Machine Learning & Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok_LLM_API-FF6F00?style=for-the-badge)
+
+### 🌐 Full Stack Development
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ⚙️ DevOps & Cloud Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
+
+---
+
+## 🏆 Featured Projects
+
+### 🏥 [Lungs Cancer Prediction Model](https://github.com/sahil-dev)
+[cite_start]Built a multi-task deep learning model achieving **95% accuracy** [cite: 21] [cite_start]using Python, NumPy, and Seaborn [cite: 22] for early detection and risk scoring.
+
+### 🤖 [AI Counsellor - Hackathon Project](https://github.com/sahi1-dev/Al-Counsellor)
+[cite_start]Developed an AI-powered counseling app using **Grok LLM API** [cite: 24][cite_start], featuring prompt engineering [cite: 31] and cloud deployment.
+
+### 🎓 [MyCareerGenie](https://github.com/sahil-dev)
+[cite_start]An AI-driven career guidance application that provides personalized recommendations based on academic background and skill mapping[cite: 27].
+
+---
+
+## 📊 GitHub Statistics & Trophies
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sahil-dev&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahil-dev&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-dev&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sahil-dev&theme=react-dark&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 💬 Dev Philosophy
+
+<div align="center">
+
+> **"The best way to predict the future is to build it, one line of code and one neuron at a time."** 🧠💻
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Connect with me and let's build something amazing!
+[LinkedIn](https://linkedin.com/in/md-sahil) | [GitHub](https://github.com/sahil-dev) | [LeetCode](https://leetcode.com/u/sahi1-dev/)
+
+**Thanks for visiting! 🚀**
+</div>
